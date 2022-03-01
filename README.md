@@ -1,4 +1,4 @@
-#opdracht
+# opdracht
 
 ![voorbeeld](./assets/video.gif)
 
@@ -12,12 +12,12 @@ Om het jezelf gemakkelijk te maken, begin je misschien best met de "oplossing to
 
 Hieronder even de functionaliteiten van de verschillende functies:
 
-pickRandomWord: kies een random woord uit de lijst van woorden die reeds geimporteerd is
-matchWord: controlleer of de letters die de user heeft ingegeven op de juiste plaats staan, of ergens in het woord zitten
-addGuess: render het ingegeven woord van de user in de lijst met antwoorden, met de juiste kleuren
-In de HTML staat een div ("row") met hierin de voorbeelden van de letters. 
-Vergeet de div "row" zelf niet aan te maken
-Showsolution: maak de oplossing zichtbaar voor de gebruiker
-reset: begin opnieuw, kies een nieuw woord en maak de oplossing onzichtbaar
+* pickRandomWord: kies een random woord uit de lijst van woorden die reeds geimporteerd is
+* matchWord: controlleer of de letters die de user heeft ingegeven op de juiste plaats staan, of ergens in het woord zitten
+* addGuess: render het ingegeven woord van de user in de lijst met antwoorden, met de juiste kleuren
+  - In de HTML staat een div ("row") met hierin de voorbeelden van de letters. 
+  - Vergeet de div "row" zelf niet aan te maken
+* Showsolution: maak de oplossing zichtbaar voor de gebruiker
+* reset: begin opnieuw, kies een nieuw woord en maak de oplossing onzichtbaar
 
 Bovenaan de opdracht staan een aantal functies die je misschien nodig kan hebben doorheen het process. Je behoort deze zelf even op te zoeken.
