@@ -3,8 +3,8 @@
 import wordString from "./../assets/wordlist.js";
 
 // to google
-// chop string to 5 characters      (split)
-// string to array js               (splice)
+// chop string to 5 characters      (splice)
+// string to array js               (split)
 
 
 const wordl = {
