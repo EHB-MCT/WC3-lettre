@@ -8,18 +8,22 @@ import wordString from "./../assets/wordlist.js";
 
 
 const wordl = {
+    // Example: ['a', 'g', 'e', 'n', 't']
     wordToGuess: [],
+    // Tip: use an object to capture all info of a guess
+    // Example: [{
+    //     char: letter,
+    //     rightChar: false,
+    //     rightPlace: false
+    // }]
     guessedWord: [],
     init() {
-        this.reset()
-
+        this.reset();
     },
     pickRandomWord() {
     },
-
     matchWord: () => {
     },
-
     addGuess: () => {
     },
     showSolution() {
