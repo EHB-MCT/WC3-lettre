@@ -22,9 +22,9 @@ const wordl = {
     },
     pickRandomWord() {
     },
-    matchWord: () => {
+    matchWord() {
     },
-    addGuess: () => {
+    addGuess() {
     },
     showSolution() {
     },
